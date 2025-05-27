@@ -11,7 +11,6 @@ import TasksScreen from './TasksScreen';
 import GeolocationScreen from './GeolocationScreen';
 import ChartsScreen from './ChartsScreen';
 import AuthScreen from './AuthScreen';
-import WeatherScreen from './WeatherScreen';
 import ContactScreen from './ContactScreen';
 import AboutScreen from './AboutScreen';
 import SpeechScreen from './SpeechScreen';
