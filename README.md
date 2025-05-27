@@ -43,11 +43,12 @@ Após o login, o usuário tem acesso a um menu lateral (drawer) com diversas se�
 
 1. Clone este repositório
 2. Instale Dependências
+
 cd nome-do-repositorio
 npm install
-3. Inicie o projeto com o Expo
+4. Inicie o projeto com o Expo
 npx expo start
-4. O terminal abrirá uma aba no navegador com um QR Code. Você pode:
+5. O terminal abrirá uma aba no navegador com um QR Code. Você pode:
 
 Escanear o código com o app Expo Go
 
