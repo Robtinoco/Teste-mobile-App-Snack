@@ -46,11 +46,11 @@ Após o login, o usuário tem acesso a um menu lateral (drawer) com diversas se�
 cd Teste-mobile-App-Snack
 npm install
 ```
-4. Inicie o projeto com o Expo
+3. Inicie o projeto com o Expo
 ```bash
 npx expo start
 ```
-5. O terminal abrirá uma aba no navegador com um QR Code. Você pode:
+4. O terminal abrirá uma aba no navegador com um QR Code. Você pode:
 
 Escanear o código com o app Expo Go
 
