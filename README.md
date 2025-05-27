@@ -50,17 +50,11 @@ npm install
 ```bash
 npx expo start
 ```
-4. O terminal abrirá uma aba no navegador com um QR Code. Você pode:
-
-Escanear o código com o app Expo Go
-
-Pressionar a para abrir em um emulador Android (se configurado)
-
-Pressionar w para abrir no navegador (modo web)
 
 ⚠️ É necessário ter o Node.js e o Expo CLI instalados. Para instalar o Expo CLI, rode:
+```bash
 npm install -g expo-cli
-
+```
 
 
 ## 📁 Estrutura de Telas
