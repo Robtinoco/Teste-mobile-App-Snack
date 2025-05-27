@@ -31,7 +31,6 @@ const DrawerNavigator = () => {
       <Drawer.Screen name="Charts" component={ChartsScreen} />
       <Drawer.Screen name="Auth" component={AuthScreen} />
       <Drawer.Screen name="Synthesizer" component={SpeechScreen} />
-      <Drawer.Screen name="Weather" component={WeatherScreen} />
       <Drawer.Screen name="Contact" component={ContactScreen} />
       <Drawer.Screen name="About" component={AboutScreen} />
       <Drawer.Screen name="Camera" component={CameraScreen} />
