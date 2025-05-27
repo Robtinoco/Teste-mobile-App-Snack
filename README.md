@@ -66,7 +66,6 @@ npm install -g expo-cli
 - `GeolocationScreen.js`
 - `ChartsScreen.js`
 - `AuthScreen.js`
-- `WeatherScreen.js`
 - `ContactScreen.js`
 - `AboutScreen.js`
 - `SpeechScreen.js`
