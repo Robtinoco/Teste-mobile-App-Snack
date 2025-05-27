@@ -15,7 +15,6 @@ Após o login, o usuário tem acesso a um menu lateral (drawer) com diversas se�
 - 📍 **Geolocalização** – Acesso à localização atual do usuário
 - 📊 **Gráficos** – Exibição de dados em formato gráfico
 - 🗣️ **Síntese de Voz** – Texto convertido em fala
-- 🌦️ **Clima** – Consulta de informações climáticas (simples)
 - 📞 **Contato** – Tela com dados de contato
 - ℹ️ **Sobre** – Informações sobre o app
 - 📷 **Câmera** – Acesso à câmera do dispositivo
